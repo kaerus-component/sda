@@ -1,0 +1,7 @@
+{
+	"name":"sda",
+	"version":"0.1.0",
+	"description":"Self decrypting archive",
+	"repo":"kaerus-component/sda",
+	"scripts":["index.js"]
+}
